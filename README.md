@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hello, earthlings!
+
+Trekology here! I enjoy visiting earth on occasion to see what humans are up to. 
